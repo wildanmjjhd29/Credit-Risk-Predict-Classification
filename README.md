@@ -36,6 +36,10 @@
 
 <hr/>
 
+<p align="center">
+  <b>Let's Connect with Me<b>
+<p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wildanmujjahid/" target="_blank">
